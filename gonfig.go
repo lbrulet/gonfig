@@ -1,6 +1,5 @@
 // Package gonfig implements simple configuration reading
 // from both JSON files and enviornment variables.
-
 package gonfig
 
 import (
